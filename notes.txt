@@ -1,0 +1,8 @@
+> npm i --save npm-run-all
+> npm i --save json-server
+> npm i --save webpack-dev-server@3.11.1
+> npm i webpack@4.29.6 --save 
+> npm i webpack-dev-server@3.2.1 --save
+> npm i webpack-cli@3.3.0 --save
+> npm i --save eslint-loader@2.1.2
+
