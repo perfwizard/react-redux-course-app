@@ -23,7 +23,7 @@
     },
     {
       "id": 4,
-      "title": "Building a JavaScript Development Environment YES",
+      "title": "Building a JavaScript Development Environment",
       "slug": "javascript-development-environment",
       "authorId": 1,
       "category": "JavaScript"
@@ -75,24 +75,8 @@
       "title": "New Course",
       "authorId": 1,
       "category": "IT",
-      "createdAt": 1627146123891,
+      "createdAt": 1627181865376,
       "slug": "new-course"
-    },
-    {
-      "id": 12,
-      "title": "New Course 2",
-      "authorId": 1,
-      "category": "IT",
-      "createdAt": 1627146854433,
-      "slug": "new-course-2"
-    },
-    {
-      "id": 13,
-      "title": "New Course 3",
-      "authorId": 2,
-      "category": "IT",
-      "createdAt": 1627147004080,
-      "slug": "new-course-3"
     }
   ],
   "authors": [
